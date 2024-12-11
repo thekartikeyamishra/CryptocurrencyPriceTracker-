@@ -46,7 +46,7 @@ This includes:
   
 **Special Offer:**
 
-##Use the code **"cryptoapp"** at checkout to get **25% off instantly.**
+## Use the code **"cryptoapp"** at checkout to get **25% off instantly.**
 
 
 
