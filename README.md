@@ -21,7 +21,7 @@ This includes:
 - Track multiple cryptocurrencies in one session.
 - Export the fetched data to a CSV file for further analysis.
 
-##Want more features? Upgrade to the Advanced Cryptocurrency Price Tracker with Enhanced Features for just **INR 299** at https://topmate.io/kartikeyahere/1342937
+## Want more features? Upgrade to the Advanced Cryptocurrency Price Tracker with Enhanced Features for just **INR 299** at https://topmate.io/kartikeyahere/1342937
 
 **Advanced Features:**
 **Real-Time Price Data:**
