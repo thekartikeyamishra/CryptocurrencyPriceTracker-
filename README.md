@@ -31,16 +31,21 @@ This includes:
 
 - View price trends over a customizable period (1-365 days).
 - Line charts for historical trends.
+
 **Multi-Currency Support:**
 
 - Display prices in USD, EUR, or GBP.
+
 **Export Functionality:**
 
 - Save both live and historical data to CSV files for offline analysis.
+
 **Interactive Dashboard:**
 
 - Built with Streamlit for a user-friendly and visually appealing interface.
+  
 **Special Offer:**
+
 ##Use the code **"cryptoapp"** at checkout to get **25% off instantly.**
 
 
