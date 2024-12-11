@@ -1,7 +1,4 @@
-### **README File for Basic Version**
-
-```markdown
-# Cryptocurrency Price Tracker 
+### **Cryptocurrency Price Tracker**
 
 ## Overview
 
